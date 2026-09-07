@@ -32,7 +32,7 @@ BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but coul
 
 BRAIN 3  - amended rule, better, but needed enough compute to slow down the world.
 
-BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a were eventually rejected  due to the rule being enforced. 
+BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a were eventually rejected  due to the rule being enforced. Tiny WOB3a brains were inserted into code, replacing the whole section.  Due to the vicious nature of the rule, these worked just as well as standard WOB code factoring techniques, demonstrating that the rule is pervasive if applied in the right way.
 
 BRAIN 4 - currently under development.
 
