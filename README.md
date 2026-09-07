@@ -1,3 +1,6 @@
+https://github.com/SimBuddy/SimBuddy/blob/main/IMg.png
+
+
 ## WOB - a simple 5-word rule, and a 1-word implementation method.
 
 **What is WOB?**
