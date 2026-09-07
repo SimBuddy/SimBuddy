@@ -26,7 +26,7 @@ Early experiments were attempts to show learning and intelligent behaviours.  Th
 
 BRAIN 1  - The simple rule determined that learning was pointless.
 
-BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive into one.
+BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive into one).
 
 BRAIN 3  - amended rule, better, but needed enough compute to slow down the world.
 
