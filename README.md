@@ -20,7 +20,18 @@ WOB has been tested on a number of known algorithms, and has produced positive r
 
 **WOB BRAIN**
 
-The WOB project now has a long-term goal - **WOB BRAIN** - the rule, embedded in a neural network.
+The WOB project now has a long-term goal - **WOB BRAIN** - the rule, embedded in a neural network. 
+
+Early experiments were attempts to show learning and intelligent behaviours.  They failed.  
+
+BRAIN 1  - The simple rule determined that learning was pointless.
+BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive into one.
+BRAIN 3  - amended rule, better, but needed enough compute to slow down the world.
+BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a were eventually rejected  due to the rule being enforced. 
+
+BRAIN 4 - currently under development.
+
+
 
 
 
