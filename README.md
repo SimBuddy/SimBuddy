@@ -14,6 +14,8 @@ The rule was shortened to 5 words - they are not disclosed, but a useful and use
 
 A second fortuitous accident - when amending code, my LLM stupidly misinterpreted its prompt, which went unnoticed. The rule was applied at every suitable point in the test code base, and the results were even better.  It took a while to analyse the "fault" - again, this was the right mistake to make.
 
+Weirdly, the rule itself made its way into the LLM prompts (lack of experimental rigour) - this tainted some experiments, but when they were re-run, the rule had somehow rejected the experiment branches that were actually dead ends. 
+
 The WOB method was born - a generic technique in code factoring to improve data-heavy code.  Not speed - efficacy - making laziness smarter.
 
 WOB has been tested on a number of known algorithms, and has produced positive results.
