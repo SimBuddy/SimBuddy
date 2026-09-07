@@ -24,7 +24,7 @@ The WOB project now has a long-term goal - **WOB BRAIN** - the rule, embedded in
 
 Early experiments were attempts to show learning and intelligent behaviours.  They failed.  
 
-BRAIN 1  - The simple rule determined that learning was pointless.
+BRAIN 1  - An entirely new network substrate, borne of the rule itself. Sadly, that simple rule made BRAIN 1 determine that learning was pointless, so it refused to do so.
 
 BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive into one).
 
