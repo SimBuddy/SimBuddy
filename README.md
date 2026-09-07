@@ -1,5 +1,4 @@
-https://github.com/SimBuddy/SimBuddy/blob/main/IMg.png
-
+<img width="1312" height="1199" alt="IMg" src="https://github.com/user-attachments/assets/d787f1c0-4e06-42e2-8c3a-3adb2871c21c" />
 
 ## WOB - a simple 5-word rule, and a 1-word implementation method.
 
