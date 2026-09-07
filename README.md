@@ -14,7 +14,13 @@ The rule was shortened to 5 words - they are not disclosed, but a useful and use
 
 A second fortuitous accident - when amending code, my LLM stupidly misinterpreted its prompt, which went unnoticed. The rule was applied at every suitable point in the test code base, and the results were even better.  It took a while to analyse the "fault" - again, this was the right mistake to make.
 
-The WOB method was born - a generic technique in code factoring to improve data-heavy code.  Not speed, efficacy - making laziness smarter.
+The WOB method was born - a generic technique in code factoring to improve data-heavy code.  Not speed - efficacy - making laziness smarter.
+
+WOB has been tested on a number of known algorithms, and has produced positive results.
+
+**WOB BRAIN**
+
+The WOB project now has a long-term goal - **WOB BRAIN** - the rule, embedded in a neural network.
 
 
 
