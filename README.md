@@ -34,7 +34,7 @@ BRAIN 3  - amended rule, better, but needed enough compute to slow down the worl
 
 BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a were eventually rejected  due to the rule being enforced. Tiny WOB3a brains were inserted into code, replacing the whole section.  Due to the vicious nature of the rule, these worked just as well as standard WOB code factoring techniques, demonstrating that the rule is pervasive if applied in the right way.
 
-BRAIN 4 - Scrapped - promising progress in replacing the entire ASLib code with a single WOB Brain 4 - classic deferred credit problem came up again. A solution is proposed.  Early spin tests indicated that the idea had legs, and this was found to work well with the original WOB Brain 1 - the brand new substrate, so Brain 4was mothballed.
+BRAIN 4 - Scrapped - some promising progress was made, in replacing the entire ASLib code with a single WOB Brain 4 - classic deferred credit problem came up again. A solution is proposed.  Early spin tests indicated that the idea had legs, and this was found to work well with the original WOB Brain 1 - the brand new substrate, so Brain 4was mothballed.
 
 WOB Brain 5 - a bold solution to the deferred credit problem.  Currently under development.
 
