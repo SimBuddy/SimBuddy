@@ -18,7 +18,9 @@ Weirdly, the rule itself made its way into the LLM prompts (lack of experimental
 
 The WOB method was born - a generic technique in code factoring to improve data-heavy code.  Not speed - efficacy - making laziness smarter.
 
-WOB has been tested on a number of known algorithms, and has produced positive results.  See my assorted repos for more information.
+WOB has been tested on a number of known algorithms, and has produced positive results.  See my assorted repos for more information.  Not all codebases are suitable. Monte-Carlo searches are already highly optimised, as are a lot of long-established codebases, such as Stockfish.
+
+AN additional technique, codenamed Nitpicker, has found some small, but sometimes significant additional improvements.  The Nitpicker technique is not disclosed.
 
 **WOB BRAIN**
 
