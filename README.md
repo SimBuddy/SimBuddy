@@ -28,15 +28,15 @@ Early experiments were attempts to show learning and intelligent behaviours.  Th
 
 BRAIN 1  - An entirely new network substrate, borne of the rule itself. Sadly, that simple rule made BRAIN 1 determine that learning was pointless, so it refused to do so.
 
-BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive into one).
+BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive to get to that stage).
 
-BRAIN 3  - amended rule, better, but needed enough compute to slow down the world.
+BRAIN 3  - Traditional graph substrate.  It became clear the the original WOB rule was great for code analysis and focussing but for a learning mechanism, it was hopeless. It inevitably  determined that things weren't worth the effort.  Even with artificial nudging, the rule always won out in the end. For WOB Brain to grow, new rules were created.  Again, they are not disclosed.
 
 BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a were eventually rejected  due to the rule being enforced. Tiny WOB3a brains were inserted into code, replacing the whole section.  Due to the vicious nature of the rule, these worked just as well as standard WOB code factoring techniques, demonstrating that the rule is pervasive if applied in the right way.
 
-BRAIN 4 - Scrapped - some promising progress was made, in replacing the entire ASLib code with a single WOB Brain 4 - classic deferred credit problem came up again. A solution is proposed.  Early spin tests indicated that the idea had legs, and this was found to work well with the original WOB Brain 1 - the brand new substrate, so Brain 4was mothballed.
+BRAIN 4 - Scrapped - some promising progress was made, in replacing the entire ASLib library (used in automatic algorithm selectors) with a single WOB Brain 4 - classic deferred credit problem came up again. A solution is proposed.  Early spin tests indicated that the idea had legs, and this was found to work well with the original WOB Brain 1 - the brand new substrate, so Brain 4 was mothballed.
 
-WOB Brain 5 - a bold solution to the deferred credit problem.  Currently under development.
+WOB Brain 5 - back to the original substrate - entirely new to the world, alongside a bold solution to the deferred credit problem and other machine-learning classic challenges. Due to lack of compute resources, the decision was made to focus WOB5 on real world scenarios, so ASLib was once again chosen this is a defined problem, and suited to WOB Brain 5.  Currently under development. 
 
 
 
