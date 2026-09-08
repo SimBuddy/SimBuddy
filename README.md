@@ -37,7 +37,7 @@ BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a 
 
 BRAIN 4 - Scrapped - some promising progress was made, in replacing the entire ASLib library (used in automatic algorithm selectors) with a single WOB Brain 4 - classic deferred credit problem came up again. A solution is proposed.  Early spin tests indicated that the idea had legs, and this was found to work well with the original WOB Brain 1 - the brand new substrate, so Brain 4 was mothballed.
 
-WOB Brain 5 - back to the original substrate - entirely new to the world, alongside a bold solution to the deferred credit problem and other machine-learning classic challenges. Due to lack of compute resources, the decision was made to focus WOB5 on real world scenarios, so ASLib was once again chosen this is a defined problem, and suited to WOB Brain 5.  Currently under development. 
+WOB Brain 5 - back to the original substrate - entirely new to the world, alongside a bold solution to the deferred credit problem and other machine-learning classic challenges. Due to lack of compute resources, the decision was made to focus WOB Brain 5 on real world scenarios, so ASLib was once again chosen since this is a defined problem, and suited to WOB Brain 5.  Currently under development. 
 
 
 
