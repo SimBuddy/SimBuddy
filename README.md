@@ -18,7 +18,7 @@ Weirdly, the rule itself made its way into the LLM prompts (lack of experimental
 
 The WOB method was born - a generic technique in code factoring to improve data-heavy code.  Not speed - efficacy - making laziness smarter.
 
-WOB has been tested on a number of known algorithms, and has produced positive results.
+WOB has been tested on a number of known algorithms, and has produced positive results.  See my assorted repos for more information.
 
 **WOB BRAIN**
 
