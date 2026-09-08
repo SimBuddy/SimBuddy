@@ -12,7 +12,7 @@ This was done using LLM-based code scanning techniques.  Not for optimising in t
 
 The rule was shortened to 5 words - they are not disclosed, but a useful and useless analogy might be **"LAZINESS MADE SMARTER".**
 
-A second fortuitous accident - when amending code, my LLM stupidly misinterpreted its prompt, which went unnoticed. The rule was applied at every suitable point in the test code base, and the results were even better.  It took a while to analyse the "fault" - again, this was the right mistake to make.
+A second fortuitous accident - when amending code, my LLM stupidly misinterpreted its prompt, which went unnoticed. The rule was tested and sparingly applied at every level in the test code base (when appropriate), and the results were even better.  It took a while to analyse the "fault" - again, this was the right mistake to make.
 
 Weirdly, the rule itself made its way into the LLM prompts (lack of experimental rigour) - this tainted some experiments, but when they were re-run, the rule had somehow rejected the experiment branches that were actually dead ends. 
 
