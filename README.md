@@ -27,3 +27,5 @@ An additional, novel technique, codenamed Nitpicker, has sometimes found some sm
 The WOB project spawned a experimental type of neural network substrate. Sadly, it failed, but many lessons and techniques have now been back-ported to WOB codefactoring.
 
 Next steps - revisit old WOBs, try new target codebases.
+
+Contact: collective@thingmy.com
