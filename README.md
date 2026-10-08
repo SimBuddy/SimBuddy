@@ -28,4 +28,4 @@ The WOB project spawned a experimental type of neural network substrate. Sadly, 
 
 Next steps - revisit old WOBs, try new target codebases.
 
-Contact: collective@thingmy.com
+Contact: collective at thingmy dot com
