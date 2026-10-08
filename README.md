@@ -1,4 +1,4 @@
-## WOB - a simple rule rule, an effective code-factoring methodology
+## WOB - a simple rule, an effective code-factoring methodology
 
 **What is WOB?**
 
