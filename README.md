@@ -1,6 +1,4 @@
-<img width="1312" height="1199" alt="IMg" src="https://github.com/user-attachments/assets/d787f1c0-4e06-42e2-8c3a-3adb2871c21c" />
-
-## WOB - a simple rule rule, a simple implementation method - will it become a brain?
+## WOB - a simple rule rule, an effective code-factoring methodology
 
 **What is WOB?**
 
@@ -22,34 +20,10 @@ WOB has been tested on a number of known algorithms, and has produced positive r
 
 An additional, novel technique, codenamed Nitpicker, has sometimes found some small, but often significant additional improvements.  The Nitpicker technique is not disclosed.
 
+WOB spawned a failed attempt at creating a WOB-based neural network substrate.  Many lessons and techniques have been back-ported to WOB.
+
+Next steps - revisit old WOBs, try new target codebases.
+
 **WOB BRAIN**
 
-The WOB project now has a long-term goal - **WOB BRAIN** - the rule, embedded in a neural network. 
-
-Early experiments were attempts to show learning and intelligent behaviours.  They failed.  
-
-BRAIN 1  - An entirely new network substrate, borne of the rule itself. Sadly, that simple rule made BRAIN 1 determine that learning was pointless, so it refused to do so.
-
-BRAIN 2  - Great at battleships, terrible at chess (better at endgames, but couldn't survive to get to that stage).
-
-BRAIN 3  - Traditional graph substrate.  It became clear the the original WOB rule was great for code analysis and focussing but for a learning mechanism, it was hopeless. It inevitably  determined that things weren't worth the effort.  Even with artificial nudging, the rule always won out in the end. 
-
-BRAIN 3a - new implementation method, overlay training - all changes to BRAIN3a were eventually rejected  due to the rule being enforced. Tiny WOB3a brains were inserted into code, replacing the whole section.  Due to the vicious nature of the rule, these worked just as well as standard WOB code factoring techniques, demonstrating that the rule is pervasive if applied in the right way. For WOB Brain to grow, new rules needed to be created.  Again, they are not disclosed.
-
-
-BRAIN 4 - Scrapped - some promising progress was made, in replacing the entire ASLib library (used in automatic algorithm selectors) with a single WOB Brain 4 - classic deferred credit problem came up again. A solution is proposed.  Early spin tests indicated that the idea had legs, and this was found to work well with the original WOB Brain 1 - the brand new substrate, so Brain 4 was mothballed.
-
-WOB Brain 5 - back to the original substrate - entirely new to the world, alongside a bold solution to the deferred credit problem and other machine-learning classic challenges. Due to lack of compute resources, the decision was made to focus WOB Brain 5 on real world scenarios, so ASLib was once again chosen since this is a defined problem, and suited to WOB Brain 5.  Currently under development. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+The WOB project spawned a new type on neural network substrate. Sadly, it failed, but many lessons and techniques 
