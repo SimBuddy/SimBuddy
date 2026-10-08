@@ -22,6 +22,6 @@ An additional, novel technique, codenamed Nitpicker, has sometimes found some sm
 
 **WOB BRAIN - RIP**
 
-The WOB project spawned a new type on neural network substrate. Sadly, it failed, but many lessons and techniques have now been back-ported to WOB codefactoring.
+The WOB project spawned a experimental type of neural network substrate. Sadly, it failed, but many lessons and techniques have now been back-ported to WOB codefactoring.
 
 Next steps - revisit old WOBs, try new target codebases.
