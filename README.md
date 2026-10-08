@@ -2,6 +2,8 @@
 
 **What is WOB?**
 
+WOB is a human-guided, machine assisted method of factoring data processing code, even code that has already been optimised.
+
 WOB began life as a simple idea relating to peripheral vision.  The idea spawned a simple rule, which was tested by modifying a known object detection algorithm, to embody the rule into the code.
 
 It worked very well.  See the video experiment elsewhere.  The rule was then tested alongside another idea around object detection.  Due to an experimental mishap, the rule looked like it was the only real factor in the experiment.  It wasn't - it was only 1 factor, but further testing was (mistakenly) justified. The rule was tested against other code repos which had code which processed a lot of data, and the rule performed well when embedded into the code.  The mistake ended up being the right one to make.
