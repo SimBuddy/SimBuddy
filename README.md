@@ -20,10 +20,8 @@ WOB has been tested on a number of known algorithms, and has produced positive r
 
 An additional, novel technique, codenamed Nitpicker, has sometimes found some small, but often significant additional improvements.  The Nitpicker technique is not disclosed.
 
-WOB spawned a failed attempt at creating a WOB-based neural network substrate.  Many lessons and techniques have been back-ported to WOB.
+**WOB BRAIN - RIP**
+
+The WOB project spawned a new type on neural network substrate. Sadly, it failed, but many lessons and techniques have now been back-ported to WOB codefactoring.
 
 Next steps - revisit old WOBs, try new target codebases.
-
-**WOB BRAIN**
-
-The WOB project spawned a new type on neural network substrate. Sadly, it failed, but many lessons and techniques 
